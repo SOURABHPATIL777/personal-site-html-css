@@ -1,0 +1,103 @@
+body{
+  text-align: center;
+  background-color:  #EAF6F6;
+}
+.intro{
+  width:50%;
+  margin: auto;
+}
+h1{color: #66BFBF;
+line-height: 2;}
+h2{color:#66BFBF;
+  line-height: 2;
+font-weight: normal;}
+h3{color: #11999E;
+line-height: 2}
+hr{
+  color:  #EAF6F6;
+  border: dotted;
+  border-radius: 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.contacts{background-color:#66BFBF;
+  line-height: 2;
+  width:40%;
+  margin: 40px auto 40px;
+}
+p{line-height: 2;}
+.hotwing{border-radius: 50%;}
+.codeimage{border-radius: 100%;}
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.pro{text-decoration: underline;
+color: red}
+
+.myskill{width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 1.5;}
+
+.codeimage{
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 200%;
+}
+.hotwing{
+  width: 30%;
+  float: right;
+  border-radius: 200%;
+}
+.profile{border-radius: 100%;}
+.cloud1{
+  width: 30%;
+  position: relative;
+  left: 500px;
+}
+.cloud2{
+  width: 30%;
+  position: relative;
+  right: 500px;
+}
+.mountain{
+  margin: 50px auto;
+  width: 100%;
+  border-radius: 5%;
+}
+.contacts{
+  width: auto;
+  height: 100px;
+}
+.con:hover{
+  color: white;
+}
